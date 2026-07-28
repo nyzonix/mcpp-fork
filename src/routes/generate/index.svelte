@@ -39,7 +39,7 @@
         profileCtx.scale(16, 16);
         profileCtx.imageSmoothingEnabled = false;
 
-        await generatePfp(`https://minotar.net/skin/${username || "I_Like_Cats__"}.png`, profileCtx);
+        await generatePfp(`https://api.battlylauncher.com/api/skin/legacy/${username || "MrDijota10"}`, profileCtx);
     });
 
     async function savePicture() {
@@ -70,11 +70,11 @@
         username = username.replace(/[^a-z0-9_]/gi, "");
 
         try {
-            await generatePfp(`https://minotar.net/skin/${username}.png`, profileCtx);
+            await generatePfp(`https://api.battlylauncher.com/api/skin/legacy/${username}`, profileCtx);
 
             clearTimeout(timeout);
             timeout = setTimeout(async () => {
-                await generatePfp(`https://minotar.net/skin/${username}.png`, profileCtx);
+                await generatePfp(`https://api.battlylauncher.com/api/skin/legacy/${username}`, profileCtx);
                 goto(`/generate?ign=${username}`, { replaceState: true, keepfocus: true });
             }, 300);
         } catch (e) {
