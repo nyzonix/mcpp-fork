@@ -21,7 +21,7 @@
     let profileCanvas: HTMLCanvasElement;
     let profileCtx: CanvasRenderingContext2D;
     onMount(async () => {
-        if (!urlSearchParamIGN) goto("/generate?ign=I_Like_Cats__", { replaceState: false });
+        if (!urlSearchParamIGN) goto("/generate?ign=nyzonix", { replaceState: false });
         else username = urlSearchParamIGN.replace(/[^a-z0-9_]/gi, "");
 
         gradientCanvas = window.document.getElementById("gradientCanvas") as HTMLCanvasElement;
