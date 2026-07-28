@@ -21,8 +21,8 @@
         <p>View me on GitHub!</p>
     </a>
 
-    <a href="https://ko-fi.com/mauritswilke" target="blank">
-        <p>Buy me a coffee!</p>
+    <a href="https://github.com/MauritsWilke/mcpfp" target="blank">
+        <p>View the original repo!</p>
     </a>
 </footer>
 
