@@ -17,7 +17,7 @@
 </nav>
 
 <footer id="footer">
-    <a href="https://github.com/MauritsWilke/mcpfp" target="blank">
+    <a href="https://github.com/nyzonix/mcpp-fork" target="blank">
         <p>View me on GitHub!</p>
     </a>
 
