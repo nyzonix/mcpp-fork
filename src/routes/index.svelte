@@ -31,8 +31,8 @@
     </div>
 
     <div id="examples">
-        <img src="/PFP/I_Like_Cats__.png" alt="example 1" />
-        <img src="/PFP/E_Like_Cats__.png" alt="example 2" />
+        <img src="/PFP/e_nyzonix.png" alt="example 1" />
+        <img src="/PFP/e_nyzonix.png" alt="example 2" />
         <img src="/PFP/{name}.png" alt="example 3" />
     </div>
 </div>
