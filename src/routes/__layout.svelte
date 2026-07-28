@@ -4,7 +4,7 @@
 
 <nav id="navBar">
     <a href="/">
-        <img src="/PFP/I_Like_Cats__.png" alt="logo" />
+        <img src="/PFP/e_nyzonix" alt="logo" />
     </a>
 
     <a href="/">
