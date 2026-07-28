@@ -32,7 +32,7 @@
 
     <div id="examples">
         <img src="/PFP/e_nyzonix.png" alt="example 1" />
-        <img src="/PFP/e_nyzonix.png" alt="example 2" />
+        <img src="/PFP/1ly4s0.png" alt="example 2" />
         <img src="/PFP/{name}.png" alt="example 3" />
     </div>
 </div>
