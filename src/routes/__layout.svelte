@@ -4,7 +4,7 @@
 
 <nav id="navBar">
     <a href="/">
-        <img src="/PFP/e_nyzonix" alt="logo" />
+        <img src="/PFP/e_nyzonix.png" alt="logo" />
     </a>
 
     <a href="/">
