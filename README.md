@@ -1,7 +1,7 @@
 # <img src="./static//PFP/e_nyzonix.png" title="logo" width=25 style="border-radius: 5px;" /> BTTLYPFP
 
-> BTTLYPFP is a fork of MCPFP, the main feature is that it redirects all the calls to the Battly launcher API instead of Mojang/Microsoft's
-> api or any other mcskin API.
+BTTLYPFP is a fork of MCPFP, the main feature is that it redirects all the calls to the Battly launcher API instead of Mojang/Microsoft's
+api or any other mcskin API.
 
 > **Please keep in mind the site is being hosted on a free Render account, Render hosting works by "Sleeping" the site which means sometimes it can cost sometime to load it (the process lf "waking up" the site)**
 
