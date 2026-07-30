@@ -3,7 +3,9 @@
 BTTLYPFP is a fork of MCPFP, the main feature is that it redirects all the calls to the Battly launcher API instead of Mojang/Microsoft's
 api or any other mcskin API.
 
-> **Please keep in mind the site is being hosted on a free Render account, Render hosting works by "Sleeping" the site which means sometimes it can cost sometime to load it (the process lf "waking up" the site)**
+> **Please keep in mind the site is being hosted on a free Render account, Render hosting works by 'Sleeping' the site which means sometimes it can cost sometime to load it (the process lf 'waking up' the site) [^1] **
+
+[^1]: I set up a UptimeRobot Monitor to 'wake up' the site so it should be online 24/7, anyways this is not definitive and may be revoked.
 
 # <img src="./static//PFP/I_Like_Cats__.png" title="logo" width=25 style="border-radius: 5px;" /> MCPFP
 
